@@ -1,0 +1,30 @@
+Git Hub Account
+----------------
+Username - Maheshdeore99
+Email - mahesh.happymind@gmail.com
+Password - Maheshd@99
+
+
+Git Commands
+---------------------
+git --version - To get the git version
+git config - Configure the username and email address
+git init - initialise a local git repository
+git add - add one or more files to staging area
+    git add . -  to add all files
+    git add *.html - to add all html extension files
+
+git diff - View the changes made to the file
+git commit - commit changes to head but not to the remote repository
+    git commit -m "Message"
+git reset - Undo local changes to the state of a Git repo
+git status - Display the state of the working directory and staging area
+git merge - Merge a branch into active branch
+git push - upload content from local repository to git repository
+
+git log - to show log of the files
+touch index.html - to create file into repository
+
+
+Links - https://www.youtube.com/watch?v=QJ0iUNe27c8
+        https://www.youtube.com/watch?v=SWYqp7iY_Tc
